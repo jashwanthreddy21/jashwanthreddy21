@@ -108,7 +108,7 @@
 
 ---
 
-⭐️ From [Varun Suddala](https://github.com/jashwanthreddy21)## Hi there 👋
+⭐️ From [Nandyala Jashwanth Reddy](https://github.com/jashwanthreddy21)## Hi there 👋
 
 <!--
 **jashwanthreddy21/jashwanthreddy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
