@@ -37,7 +37,7 @@
 ## 🧑‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 <!--## ⚡ Backend Development
@@ -49,13 +49,13 @@
 ## 🎨 Frontend Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=,mysql,mongodb" />
 </p>
 
 <!--## ☁️ Cloud & DevOps
