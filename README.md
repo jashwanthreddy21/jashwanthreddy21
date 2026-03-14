@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Varun Suddala</h1>
-<h3 align="center">Backend Developer | FastAPI | PostgreSQL | System Design Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Nandyala Jashwanth Reddy</h1>
+<h3 align="center">Frontend Developer | Basic Pentester | PostgreSQL | System Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varunsuddala&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
