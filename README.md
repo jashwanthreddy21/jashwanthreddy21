@@ -77,7 +77,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsuddala&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jashwanthreddy21&theme=tokyonight"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsuddala&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jashwanthreddy21&theme=tokyo-night"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@
 
 ---
 
-⭐️ From [Varun Suddala](https://github.com/varunsuddala)## Hi there 👋
+⭐️ From [Varun Suddala](https://github.com/jashwanthreddy21)## Hi there 👋
 
 <!--
 **jashwanthreddy21/jashwanthreddy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
