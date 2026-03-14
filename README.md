@@ -13,19 +13,19 @@
 - 🌱 Currently learning **System Design, Docker, and DevOps**
 - 💡 Interested in **Backend Architecture, Performance Optimization, and Distributed Systems**
 - 💬 Ask me about **Python, SQL, API Development, Backend Architecture**
-- 📫 Reach me at: **varunsuddala@gmail.com**
-- 🌐 Portfolio: **https://varunsuddala.me**
+- 📫 Reach me at: **nandyalajashwanthreddy317@gmail.com**
+- 🌐 Portfolio: **https://jashwanthreddy.me**
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+<a href="https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://github.com/varunsuddala" target="blank">
+<a href="https://github.com/jashwanthreddy21" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
@@ -40,11 +40,11 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
-## ⚡ Backend Development
+<!--## ⚡ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
+</p>-->
 
 ## 🎨 Frontend Technologies
 
@@ -58,11 +58,11 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-## ☁️ Cloud & DevOps
+<!--## ☁️ Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git" />
-</p>
+</p>-->
 
 ---
 
